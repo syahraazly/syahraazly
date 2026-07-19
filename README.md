@@ -1,87 +1,69 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Syahra 👋🏻
-
-### A curious developer who enjoys learning, creating, and growing through every process.
+<h1><code>Hello, I'm Syahra 🌷</code></h1>
 
 <p>
-I’m a software developer from Indonesia with a background in web development and a growing interest in iOS development.
+  <code>A web developer learning to build thoughtful experiences in the Apple ecosystem.</code>
 </p>
 
 <p>
-I enjoy turning ideas into experiences that feel useful, thoughtful, and easy to understand.
+  <code>
+    I started my journey in web development, working with tools like React, Vue, and Laravel.
+    These days, I’m spending more time exploring Swift, SwiftUI, and how apps can feel not only
+    functional, but also clear, accessible, and enjoyable to use.
+  </code>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syahraazly)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://syahraazly.vercel.app/)
-
-</div>
-
----
-
-## A Little About Me
-
-Hi! I’m Syahra, a developer who loves exploring new things, asking questions, and learning through hands-on experiences.
-
-I started my journey in web development and am currently expanding into the Apple ecosystem with Swift and SwiftUI.
-
-Learning something new can sometimes feel overwhelming, but I believe that being confused is also part of growing. I enjoy breaking problems into smaller pieces, experimenting with different approaches, and slowly turning uncertainty into understanding.
-
-Outside of writing code, I’m also interested in visual design, accessibility, storytelling, and creating experiences that feel friendly and meaningful.
-
----
-
-## What I’m Exploring
-
-* Swift and SwiftUI
-* Apple development frameworks
-* Frontend and full-stack development
-* Accessible user interfaces
-* Visual communication and product design
-* Better ways to turn ideas into real experiences
-
----
-
-## Technologies I’ve Worked With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,react,vue,js,ts,php,laravel,spring,mysql,firebase,git,github,figma" alt="Technology icons">
+<p>
+  <code>
+    I’m naturally curious and tend to ask a lot of questions until something truly makes sense.
+    Learning new things can feel overwhelming sometimes, but I’ve learned that confusion is often
+    just the beginning of understanding.
+  </code>
 </p>
 
----
+<h2><code>What I'm Into Right Now</code></h2>
 
-## Things I Believe In
+<p><code>🍎 Exploring Swift, SwiftUI, and Apple frameworks</code></p>
+<p><code>🎨 Learning more about accessibility and visual design</code></p>
+<p><code>💻 Growing from web development into mobile development</code></p>
+<p><code>🧩 Turning complicated problems into smaller, understandable steps</code></p>
+<p><code>🌱 Becoming more comfortable with not knowing everything immediately</code></p>
 
-```text
-It is okay not to understand everything immediately.
+<h2><code>A Few Things About Me</code></h2>
 
-Asking questions is part of learning.
+<p><code>• I'm cheerful, curious, and sometimes easily overwhelmed.</code></p>
+<p><code>• I care about small details, especially when they affect the user experience.</code></p>
+<p><code>• I enjoy understanding the reason behind how something works.</code></p>
+<p><code>• I often learn by experimenting, making mistakes, and trying again.</code></p>
+<p><code>• I'm still learning how to trust the process without overthinking every step.</code></p>
 
-Good technology should not only work,
-but should also feel thoughtful and accessible.
+<h2><code>Tools I've Worked With</code></h2>
 
-Growth often begins outside the comfort zone.
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,react,vue,js,ts,php,laravel,spring,mysql,firebase,git,github,figma" alt="Technology Stack">
+</p>
 
----
+<h2><code>GitHub Activity</code></h2>
 
-## Currently
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=syahraazly&show_icons=true&hide_border=true&theme=transparent" alt="Syahra's GitHub Statistics">
+</p>
 
-🍎 Learning more about iOS development
-💻 Growing from web development into mobile development
-🎨 Exploring the relationship between technology and design
-🌱 Practicing how to learn without being afraid of making mistakes
+<h2><code>Let's Stay Connected</code></h2>
 
----
+<p>
+  <code>You can find me on </code><a href="https://www.linkedin.com/in/syahraazly"><code>LinkedIn</code></a><code>.</code>
+</p>
 
-## Let’s Connect
+<p>
+  <code>I'm always happy to connect, exchange ideas, and learn from different perspectives.</code>
+</p>
 
-I’m always happy to meet new people, exchange ideas, and learn from different perspectives.
+<br>
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/syahraazly) or visit my [personal website](https://syahraazly.vercel.app/).
-
-<div align="center">
-
-### Still learning, still experimenting, and still growing ✨
+<p>
+  <code>Learning slowly, asking freely, and growing continuously ✨</code>
+</p>
 
 </div>
