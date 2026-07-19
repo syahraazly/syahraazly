@@ -42,7 +42,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=swift,react,vue,js,ts,php,laravel,spring,mysql,firebase,git,github,figma"
+    src="https://skillicons.dev/icons?i=swift,go,java,react,vue,js,ts,php,laravel,spring,mysql,firebase,git,github,figma"
     alt="Technology Stack"
   >
 </p>
